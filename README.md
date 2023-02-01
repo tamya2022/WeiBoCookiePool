@@ -1,7 +1,5 @@
 # WeiBoCookiePool
 项目整理：微博信息爬取，包括Cookie池
-# CookiesPool
-
 可扩展的Cookies池，目前对接了新浪微博，[m.weibo.cn](https://m.weibo.cn)，可自行扩展其他站点
 
 
